@@ -1,0 +1,73 @@
+D:\Program Files (x86)\Microsoft Visual Studio\MyProjects\jiaowuguanlijiemian\bin\Debug\jiaowuguanlijiemian.exe.config
+D:\Program Files (x86)\Microsoft Visual Studio\MyProjects\jiaowuguanlijiemian\bin\Debug\jiaowuguanlijiemian.exe
+D:\Program Files (x86)\Microsoft Visual Studio\MyProjects\jiaowuguanlijiemian\bin\Debug\jiaowuguanlijiemian.pdb
+D:\Program Files (x86)\Microsoft Visual Studio\MyProjects\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Microsoft Visual Studio\MyProjects\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.jiaowuguanlijiemian.resources
+D:\Program Files (x86)\Microsoft Visual Studio\MyProjects\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.guanliyuan1.resources
+D:\Program Files (x86)\Microsoft Visual Studio\MyProjects\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.Properties.Resources.resources
+D:\Program Files (x86)\Microsoft Visual Studio\MyProjects\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.csproj.GenerateResource.Cache
+D:\Program Files (x86)\Microsoft Visual Studio\MyProjects\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.exe
+D:\Program Files (x86)\Microsoft Visual Studio\MyProjects\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.pdb
+D:\Program Files (x86)\Microsoft Visual Studio\MyProjects\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.guanliyuanjiemian.resources
+D:\Program Files (x86)\Microsoft Visual Studio\MyProjects\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.jiaowuguanli_xueshengxinxi.resources
+D:\Program Files (x86)\Microsoft Visual Studio\MyProjects\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.xiugaifenshu.resources
+D:\Program Files (x86)\Microsoft Visual Studio\MyProjects\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.xinjianxuesheng.resources
+D:\Program Files (x86)\Microsoft Visual Studio\MyProjects\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.shanchuxuesheng.resources
+D:\Program Files (x86)\Microsoft Visual Studio\MyProjects\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.jiaowuguanli_jiaoshixinxi.resources
+D:\Program Files (x86)\Microsoft Visual Studio\MyProjects\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.xinjianjiaoshi.resources
+D:\Program Files (x86)\Microsoft Visual Studio\MyProjects\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.shanchujiaoshi.resources
+D:\Program Files (x86)\Microsoft Visual Studio\MyProjects\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.jiaoshidenglujiemian.resources
+D:\Program Files (x86)\Microsoft Visual Studio\MyProjects\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.jiaoshiguanlijiemian.resources
+D:\Program Files (x86)\Microsoft Visual Studio\MyProjects\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.jiaoshiguanli_xiugaixueshengfenshu.resources
+D:\Program Files (x86)\Microsoft Visual Studio\MyProjects\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.xueshengdenglujiemian.resources
+D:\Program Files (x86)\Microsoft Visual Studio\MyProjects\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.xueshengdenglu_xueshengxinxixianshi.resources
+D:\Program Files (x86)\Microsoft Visual Studio\MyProjects\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.xueshengdenglu_xuanke.resources
+E:\二班\二班已完结的大学作业\0814142数据库课程设计\081414231黎家安\08144231黎家安\jiaowuguanlijiemian\bin\Debug\jiaowuguanlijiemian.exe.config
+E:\二班\二班已完结的大学作业\0814142数据库课程设计\081414231黎家安\08144231黎家安\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.exe
+E:\二班\二班已完结的大学作业\0814142数据库课程设计\081414231黎家安\08144231黎家安\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.pdb
+E:\二班\二班已完结的大学作业\0814142数据库课程设计\081414231黎家安\08144231黎家安\jiaowuguanlijiemian\bin\Debug\jiaowuguanlijiemian.exe
+E:\二班\二班已完结的大学作业\0814142数据库课程设计\081414231黎家安\08144231黎家安\jiaowuguanlijiemian\bin\Debug\jiaowuguanlijiemian.pdb
+E:\二班\二班已完结的大学作业\0814142数据库课程设计\081414231黎家安\08144231黎家安\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.csprojResolveAssemblyReference.cache
+E:\二班\二班已完结的大学作业\0814142数据库课程设计\081414231黎家安\08144231黎家安\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.jiaowuguanlijiemian.resources
+E:\二班\二班已完结的大学作业\0814142数据库课程设计\081414231黎家安\08144231黎家安\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.guanliyuanjiemian.resources
+E:\二班\二班已完结的大学作业\0814142数据库课程设计\081414231黎家安\08144231黎家安\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.guanliyuan1.resources
+E:\二班\二班已完结的大学作业\0814142数据库课程设计\081414231黎家安\08144231黎家安\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.jiaoshidenglujiemian.resources
+E:\二班\二班已完结的大学作业\0814142数据库课程设计\081414231黎家安\08144231黎家安\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.jiaoshiguanlijiemian.resources
+E:\二班\二班已完结的大学作业\0814142数据库课程设计\081414231黎家安\08144231黎家安\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.jiaoshiguanli_xiugaixueshengfenshu.resources
+E:\二班\二班已完结的大学作业\0814142数据库课程设计\081414231黎家安\08144231黎家安\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.jiaowuguanli_jiaoshixinxi.resources
+E:\二班\二班已完结的大学作业\0814142数据库课程设计\081414231黎家安\08144231黎家安\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.jiaowuguanli_xueshengxinxi.resources
+E:\二班\二班已完结的大学作业\0814142数据库课程设计\081414231黎家安\08144231黎家安\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.Properties.Resources.resources
+E:\二班\二班已完结的大学作业\0814142数据库课程设计\081414231黎家安\08144231黎家安\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.shanchujiaoshi.resources
+E:\二班\二班已完结的大学作业\0814142数据库课程设计\081414231黎家安\08144231黎家安\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.shanchuxuesheng.resources
+E:\二班\二班已完结的大学作业\0814142数据库课程设计\081414231黎家安\08144231黎家安\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.xinjianjiaoshi.resources
+E:\二班\二班已完结的大学作业\0814142数据库课程设计\081414231黎家安\08144231黎家安\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.xinjianxuesheng.resources
+E:\二班\二班已完结的大学作业\0814142数据库课程设计\081414231黎家安\08144231黎家安\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.xiugaifenshu.resources
+E:\二班\二班已完结的大学作业\0814142数据库课程设计\081414231黎家安\08144231黎家安\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.xueshengdenglujiemian.resources
+E:\二班\二班已完结的大学作业\0814142数据库课程设计\081414231黎家安\08144231黎家安\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.xueshengdenglu_xuanke.resources
+E:\二班\二班已完结的大学作业\0814142数据库课程设计\081414231黎家安\08144231黎家安\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.xueshengdenglu_xueshengxinxixianshi.resources
+E:\二班\二班已完结的大学作业\0814142数据库课程设计\081414231黎家安\08144231黎家安\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.csproj.GenerateResource.Cache
+D:\陈敬源\大三上\数据库\10298536_g\教务管理系统\教务管理系统\jiaowuguanlijiemian\bin\Debug\jiaowuguanlijiemian.exe.config
+D:\陈敬源\大三上\数据库\10298536_g\教务管理系统\教务管理系统\jiaowuguanlijiemian\bin\Debug\jiaowuguanlijiemian.exe
+D:\陈敬源\大三上\数据库\10298536_g\教务管理系统\教务管理系统\jiaowuguanlijiemian\bin\Debug\jiaowuguanlijiemian.pdb
+D:\陈敬源\大三上\数据库\10298536_g\教务管理系统\教务管理系统\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.csproj.AssemblyReference.cache
+D:\陈敬源\大三上\数据库\10298536_g\教务管理系统\教务管理系统\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.jiaowuguanlijiemian.resources
+D:\陈敬源\大三上\数据库\10298536_g\教务管理系统\教务管理系统\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.guanliyuanjiemian.resources
+D:\陈敬源\大三上\数据库\10298536_g\教务管理系统\教务管理系统\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.Properties.Resources.resources
+D:\陈敬源\大三上\数据库\10298536_g\教务管理系统\教务管理系统\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.csproj.GenerateResource.cache
+D:\陈敬源\大三上\数据库\10298536_g\教务管理系统\教务管理系统\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.csproj.CoreCompileInputs.cache
+D:\陈敬源\大三上\数据库\10298536_g\教务管理系统\教务管理系统\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.exe
+D:\陈敬源\大三上\数据库\10298536_g\教务管理系统\教务管理系统\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.pdb
+D:\陈敬源\大三上\数据库\10298536_g\教务管理系统\教务管理系统\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.teacher_login.resources
+D:\陈敬源\大三上\数据库\10298536_g\教务管理系统\教务管理系统\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.teacher_management.resources
+D:\陈敬源\大三上\数据库\10298536_g\教务管理系统\教务管理系统\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.scores_modify.resources
+D:\陈敬源\大三上\数据库\10298536_g\教务管理系统\教务管理系统\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.Educational_teacher.resources
+D:\陈敬源\大三上\数据库\10298536_g\教务管理系统\教务管理系统\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.Educational_student.resources
+D:\陈敬源\大三上\数据库\10298536_g\教务管理系统\教务管理系统\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.delete_teacher.resources
+D:\陈敬源\大三上\数据库\10298536_g\教务管理系统\教务管理系统\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.delete_student.resources
+D:\陈敬源\大三上\数据库\10298536_g\教务管理系统\教务管理系统\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.new_teacher.resources
+D:\陈敬源\大三上\数据库\10298536_g\教务管理系统\教务管理系统\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.new_student.resources
+D:\陈敬源\大三上\数据库\10298536_g\教务管理系统\教务管理系统\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.score_change.resources
+D:\陈敬源\大三上\数据库\10298536_g\教务管理系统\教务管理系统\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.student_login.resources
+D:\陈敬源\大三上\数据库\10298536_g\教务管理系统\教务管理系统\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.Course_selection.resources
+D:\陈敬源\大三上\数据库\10298536_g\教务管理系统\教务管理系统\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.student_information.resources
+D:\陈敬源\大三上\数据库\10298536_g\教务管理系统\教务管理系统\jiaowuguanlijiemian\obj\Debug\jiaowuguanlijiemian.guanliyuan1.resources

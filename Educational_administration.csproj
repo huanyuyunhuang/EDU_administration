@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{067BF146-CAF3-48B2-B8B3-5F41D4B0DEF5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>jiaowuguanlijiemian</RootNamespace>
+    <AssemblyName>jiaowuguanlijiemian</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="delete_course.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_course.Designer.cs">
+      <DependentUpon>delete_course.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_user.Designer.cs">
+      <DependentUpon>delete_user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Educational_course.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Educational_course.Designer.cs">
+      <DependentUpon>Educational_course.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Educational_system_user.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Educational_system_user.Designer.cs">
+      <DependentUpon>Educational_system_user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="administrator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="administrator.Designer.cs">
+      <DependentUpon>administrator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="administrator_login.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="administrator_login.Designer.cs">
+      <DependentUpon>administrator_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="new_course.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_course.Designer.cs">
+      <DependentUpon>new_course.cs</DependentUpon>
+    </Compile>
+    <Compile Include="new_user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_user.Designer.cs">
+      <DependentUpon>new_user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tea_password_change.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tea_password_change.Designer.cs">
+      <DependentUpon>Tea_password_change.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stu_password_change.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stu_password_change.Designer.cs">
+      <DependentUpon>Stu_password_change.cs</DependentUpon>
+    </Compile>
+    <Compile Include="teacher_login.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="teacher_login.Designer.cs">
+      <DependentUpon>teacher_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="teacher_management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teacher_management.Designer.cs">
+      <DependentUpon>teacher_management.cs</DependentUpon>
+    </Compile>
+    <Compile Include="scores_modify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="scores_modify.Designer.cs">
+      <DependentUpon>scores_modify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Educational_teacher.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Educational_teacher.Designer.cs">
+      <DependentUpon>Educational_teacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Educational_student.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Educational_student.Designer.cs">
+      <DependentUpon>Educational_student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="delete_teacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_teacher.Designer.cs">
+      <DependentUpon>delete_teacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_student.Designer.cs">
+      <DependentUpon>delete_student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="new_teacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_teacher.Designer.cs">
+      <DependentUpon>new_teacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="new_student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_student.Designer.cs">
+      <DependentUpon>new_student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="score_change.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="score_change.Designer.cs">
+      <DependentUpon>score_change.cs</DependentUpon>
+    </Compile>
+    <Compile Include="student_login.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="student_login.Designer.cs">
+      <DependentUpon>student_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Course_selection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Course_selection.Designer.cs">
+      <DependentUpon>Course_selection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="student_information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="student_information.Designer.cs">
+      <DependentUpon>student_information.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="delete_course.resx">
+      <DependentUpon>delete_course.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_user.resx">
+      <DependentUpon>delete_user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Educational_course.resx">
+      <DependentUpon>Educational_course.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Educational_system_user.resx">
+      <DependentUpon>Educational_system_user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="administrator.resx">
+      <DependentUpon>administrator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="administrator_login.resx">
+      <DependentUpon>administrator_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_course.resx">
+      <DependentUpon>new_course.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_user.resx">
+      <DependentUpon>new_user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tea_password_change.resx">
+      <DependentUpon>Tea_password_change.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stu_password_change.resx">
+      <DependentUpon>Stu_password_change.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teacher_login.resx">
+      <DependentUpon>teacher_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teacher_management.resx">
+      <DependentUpon>teacher_management.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="scores_modify.resx">
+      <DependentUpon>scores_modify.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Educational_teacher.resx">
+      <DependentUpon>Educational_teacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Educational_student.resx">
+      <DependentUpon>Educational_student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="delete_teacher.resx">
+      <DependentUpon>delete_teacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_student.resx">
+      <DependentUpon>delete_student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_teacher.resx">
+      <DependentUpon>new_teacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_student.resx">
+      <DependentUpon>new_student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="score_change.resx">
+      <DependentUpon>score_change.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="student_login.resx">
+      <DependentUpon>student_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Course_selection.resx">
+      <DependentUpon>Course_selection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="student_information.resx">
+      <DependentUpon>student_information.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG731.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG67.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG52.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG41.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG671.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG35.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
